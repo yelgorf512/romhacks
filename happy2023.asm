@@ -1,13 +1,13 @@
 ;
-; hello.asm 2023 HACK BY YELGORF
+; happy2023.asm - HACK OF DASM EXAMPLE hello.asm BY YELGORF
 ;
-; INSTEAD OF HELLO WORLD IT SAYS HAPPY 2023 :o
+; INSTEAD OF HELLO WORLD IT SAYS HAPPY 2023
 ; ALSO MODIFIED TO HAVE COLOR SHIFT AND REFLECTION WOW!
 ;
 ; This is free software (see license below). Build it with DASM
 ; (http://dasm-dillon.sourceforge.net/), by running:
 ;
-;   dasm hello.asm -ohello.bin -f3
+;   dasm happy2023.asm -ohello.bin -f3
 ;
 
     processor 6502
