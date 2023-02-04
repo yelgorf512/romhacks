@@ -1,5 +1,7 @@
 ;
-; happy2023.asm - HACK OF DASM EXAMPLE hello.asm BY YELGORF
+; happy2023.asm - FOR ATARI 2600 - HACK OF hello.asm BY YELGORF
+; See bottom of this file for details on the original version by
+; Carlos Duarte do Nascimento (Chester)
 ;
 ; INSTEAD OF HELLO WORLD IT SAYS HAPPY 2023
 ; ALSO MODIFIED TO HAVE COLOR SHIFT AND REFLECTION WOW!
